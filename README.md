@@ -1,4 +1,4 @@
-# Hello World 🌎
+# Hello World
 
 My first programming project!
 
